@@ -112,6 +112,7 @@ const RecipeForm = () => {
                                 <label htmlFor="" className='form-label'>Recipe Category</label>
                                 <select className='form-select' onChange={(e)=>{setCategory(e.target.value)}}>
                                     <option selected>Select Category</option>
+                                    <option value="Brownie">Brownies and Blondies</option>
                                     <option value="Cake">Cake</option>
                                     <option value="Candy">Candy</option>
                                     <option value="Caramel">Caramel</option>

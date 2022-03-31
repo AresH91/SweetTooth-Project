@@ -12,6 +12,14 @@ const ListedCategories = () => {
         <div>
             <div className='row row-cols-2 row-cols-lg-6 g-2 g-lg-3 py-4 d-flex flex-wrap'>
 
+                <Link className='category__link' to='/recipes/results/Brownie'>
+                    <div className='category__img shadow'>
+                        <img src="https://natashaskitchen.com/wp-content/uploads/2020/08/Chocolate-Brownie-Recipe-5.jpg" alt="" />
+                    </div>
+                    <div className='pt-1'>
+                        <b>Brownies and Blondies</b>
+                    </div>
+                </Link>
                 <Link className='category__link' to='/recipes/results/Cake'>
                     <div className='category__img shadow'>
                         <img src="https://i.ibb.co/cCywsLm/cake.jpg" alt="" />
