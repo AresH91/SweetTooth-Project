@@ -18,7 +18,8 @@ See this and more as you explore the pages of my project!
 
 
 **Currently hosted:** http://54.243.15.76/
-**Video Walkthrough:** https://youtu.be/MAZpt45niG8
+
+ **Video Walkthrough:** https://youtu.be/MAZpt45niG8
 
   **Language:** Javascript, JSX
   
